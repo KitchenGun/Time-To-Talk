@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 565189a2cf1834d47b19e57a934e61cf
+timeCreated: 1496064876
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Google spies
+  fontNames:
+  - Google spies
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
